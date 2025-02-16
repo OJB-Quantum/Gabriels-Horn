@@ -1,5 +1,5 @@
 # Gabriels-Horn
-Generate a visualization of Gabriel's Horn in Python and Blender. 
+Generate a visualization of Gabriel's Horn in Python and Blender; also called Torricelli’s Trumpet, a geometric figure with infinite surface area and finite volume.
 
 ---
 
