@@ -3,7 +3,7 @@ Generate a visualization of Gabriel's Horn in Python and Blender; also called To
 
 ---
 
-Primary URL for the repository: [OJB-Quantum/QC-Hardware-How-To](https://github.com/OJB-Quantum/Gabriels-Horn)
+Primary URL for the repository: [OJB-Quantum/Gabriels-Horn](https://github.com/OJB-Quantum/Gabriels-Horn)
 
 ---
 
