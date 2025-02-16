@@ -11,9 +11,7 @@ Primary URL for the repository: [OJB-Quantum/QC-Hardware-How-To](https://github.
 
 ### The visualization for the rendered Gabriel's Horn is based on the formula below:
 
-$V=\pi \int_1^a\left(\frac{1}{x}\right)^2 \mathrm{~d} x=\pi\left(1-\frac{1}{a}\right) \quad \lim _{a \rightarrow \infty} V=\lim _{a \rightarrow \infty} \pi\left(1-\frac{1}{a}\right)=\pi$
-
-$A=2 \pi \int_1^a \frac{1}{x} \sqrt{1+\left(-\frac{1}{x^2}\right)^2} \mathrm{~d} x>2 \pi \int_1^a \frac{\mathrm{~d} x}{x}=2 \pi \ln (a) \quad \lim _{a \rightarrow \infty} A \geq \lim _{a \rightarrow \infty} 2 \pi \ln (a)=\infty$
+![mathpix 2025-02-16 05-42-10](https://github.com/user-attachments/assets/7a1205b3-9d42-4046-8336-d2620b8bf587)
 
 > Note: the rendered equation in the image shown was imported as an SVG into Blender, followed by converting it into a mesh, cleaning it up in Edit Mode, then extruding the faces into a 3D object.
 
