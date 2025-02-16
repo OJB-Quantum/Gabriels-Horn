@@ -16,3 +16,5 @@ $A=2 \pi \int_1^a \frac{1}{x} \sqrt{1+\left(-\frac{1}{x^2}\right)^2} \mathrm{~d}
 > Note: the rendered equation in the image shown was imported as an SVG into Blender, followed by converting it into a mesh, cleaning it up in Edit Mode, then extruding the faces into a 3D object.
 
 ### Click to view Gabriel's Horn visualized in a Google Colab notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OJB-Quantum/Gabriels-Horn/blob/main/Gabriel's_Horn_with_Python.ipynb)
+
+### Click to view the Blender Python script: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/OJB-Quantum/Gabriels-Horn/blob/main/Gabriel's%20Horn_Blender%20Python.py)
