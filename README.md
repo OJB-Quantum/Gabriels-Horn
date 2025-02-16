@@ -1,6 +1,10 @@
 # Gabriels-Horn
 Generate a visualization Gabriel's Horn in Python and Blender. 
 
+__________________________________________________________________________________________________________________________________________________
+
+Primary URL for the repository: [OJB-Quantum/QC-Hardware-How-To](https://github.com/OJB-Quantum/Gabriels-Horn)
+
 ![Gabriel's Horn 001](https://github.com/user-attachments/assets/333a45a4-5338-4328-ab29-232be31314f1)
 
 ### The visualization for the rendered Gabriel's Horn is based on the formula below:
