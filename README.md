@@ -1,5 +1,5 @@
 # Gabriels-Horn
-Generate a visualization Gabriel's Horn in Python and Blender. 
+Generate a visualization of Gabriel's Horn in Python and Blender. 
 
 ---
 
