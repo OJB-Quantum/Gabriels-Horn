@@ -1,3 +1,7 @@
+'''
+Simply copy and paste this script into your Blender Python scripting enviroment, then run the script. See comments below for additional desired modifications.
+'''
+
 import bpy
 import numpy as np
 
