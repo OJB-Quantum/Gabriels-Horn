@@ -7,8 +7,6 @@ Primary URL for the repository: [OJB-Quantum/Gabriels-Horn](https://github.com/O
 
 ---
 
-![Gabriel's Horn 001](https://github.com/user-attachments/assets/333a45a4-5338-4328-ab29-232be31314f1)
-
 ![Gabriel's Horn 002](https://github.com/user-attachments/assets/8d5a05cc-e621-40ff-91bc-8ce344fd9f7f)
 
 
