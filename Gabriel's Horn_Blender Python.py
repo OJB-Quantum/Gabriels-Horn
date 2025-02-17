@@ -1,4 +1,5 @@
 '''
+Authored by Onri Jay Benally (2025).
 Simply copy and paste this script into your Blender Python scripting enviroment, then run the script. See comments below for additional desired modifications.
 '''
 
@@ -35,7 +36,7 @@ def create_gabriels_horn():
     mesh.from_pydata(vertices, [], faces)
     mesh.update()
     
-    # Add subdivision surface modifier
+    # Add subdivision surface modifier, this is optional
     mod = obj.modifiers.new(name="Subdivision", type='SUBSURF')
     mod.levels = 3  # Set 3 subdivisions
     mod.render_levels = 3
