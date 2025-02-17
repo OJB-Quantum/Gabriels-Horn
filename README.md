@@ -9,6 +9,8 @@ Primary URL for the repository: [OJB-Quantum/Gabriels-Horn](https://github.com/O
 
 ![Gabriel's Horn 001](https://github.com/user-attachments/assets/333a45a4-5338-4328-ab29-232be31314f1)
 
+![Gabriel's Horn 002](https://github.com/user-attachments/assets/77fdbbd7-d3ce-4ed6-bf60-2571e1b18db0)
+
 ### The visualization for the rendered Gabriel's Horn is based on the formula below:
 
 $V=\pi \int_1^a\left(\frac{1}{x}\right)^2 \mathrm{~d} x=\pi\left(1-\frac{1}{a}\right) \quad \lim _{a \rightarrow \infty} V=\lim _{a \rightarrow \infty} \pi\left(1-\frac{1}{a}\right)=\pi$
