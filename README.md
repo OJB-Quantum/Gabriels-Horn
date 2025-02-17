@@ -7,7 +7,7 @@ Primary URL for the repository: [OJB-Quantum/Gabriels-Horn](https://github.com/O
 
 ---
 
-![Gabriel's Horn 001](https://github.com/user-attachments/assets/333a45a4-5338-4328-ab29-232be31314f1)
+![Gabriel's Horn 002](https://github.com/user-attachments/assets/d4b7271a-c69e-46e4-8bc1-ee378814c365)
 
 ### The visualization for the rendered Gabriel's Horn is based on the formula below:
 
